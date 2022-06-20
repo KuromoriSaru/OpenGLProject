@@ -1,0 +1,27 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1930
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193030709
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    X:\\VisualStudio\\VC\\Tools\\MSVC\\14.30.30705\\include \
+    X:\\VisualStudio\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include \
+    X:\\VisualStudio\\VC\\Auxiliary\\VS\\include \
+    E:\\windev\\Include\\10.0.20348.0\\ucrt \
+    X:\\VisualStudio\\VC\\Auxiliary\\VS\\UnitTest\\include \
+    E:\\windev\\Include\\10.0.20348.0\\um \
+    E:\\windev\\Include\\10.0.20348.0\\shared \
+    E:\\windev\\Include\\10.0.20348.0\\winrt \
+    E:\\windev\\Include\\10.0.20348.0\\cppwinrt \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.7.2\\Include\\um" \
+    C:\\Users\\Shobu\\vcpkg\\installed\\x64-windows\\include
+QMAKE_CXX.LIBDIRS = \
+    X:\\VisualStudio\\VC\\Tools\\MSVC\\14.30.30705\\lib\\x64 \
+    X:\\VisualStudio\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\lib\\x64 \
+    X:\\VisualStudio\\VC\\Auxiliary\\VS\\lib\\x64 \
+    E:\\windev\\lib\\10.0.20348.0\\ucrt\\x64 \
+    X:\\VisualStudio\\VC\\Auxiliary\\VS\\UnitTest\\lib \
+    E:\\windev\\lib\\10.0.20348.0\\um\\x64 \
+    "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.7.2\\lib\\um\\x64"

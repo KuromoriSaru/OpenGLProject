@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (C:/Qt/6.3.0/msvc2019_64/bin/qmake)
+  QViewport.cpp
+C:\dev\visual-studio-c++\FinalProjectQT\FinalProjectQT\QViewport.cpp(279,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\dev\visual-studio-c++\FinalProjectQT\FinalProjectQT\QViewport.cpp(415,88): warning C4311: 'type cast': pointer truncation from 'HBITMAP' to 'int'
+  FinalProjectQT.vcxproj -> C:\dev\visual-studio-c++\FinalProjectQT\FinalProjectQT\x64\Release\FinalProjectQT.exe
